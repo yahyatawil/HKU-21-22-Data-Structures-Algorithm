@@ -25,7 +25,7 @@ Note: the titles are subject to modifications
 ## Rules
 
 1. The official teaching language is english, thus only English is used and allowed for teaching, commnication, presentations, quizes and assignments.
-2. Plagiarism: cheating in any form is not permitted as ethical or educational behavior and will not be tolerated (seriously! first discovered plagiarism, a 10% deduction of your final lab mark. Second discovered plagiarism, 40%. third discovered plagiarism, you will get zero in the lab.). 
+2. [Plagiarism](https://www.hcii.cmu.edu/academics/plagiarism-policy): cheating in any form is not permitted as ethical or educational behavior and will not be tolerated (seriously! first discovered plagiarism, a 10% deduction of your final lab mark. Second discovered plagiarism, 40%. third discovered plagiarism, you will get zero in the lab.). 
 3. Be positive, motivated and active, if you have any concern or question don't hesitat to contact me any time. 
 4. Missing an assignment deadline (for no acceptable reason) penality is 50% deduction in the respective work mark. 
 
