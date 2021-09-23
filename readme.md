@@ -7,7 +7,7 @@ Note: the titles are subject to modifications
 
 | Session  | Date | Title | Materials | Assignments |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | 24 Sep  | Introduction  | Slides  | [assignment 1 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-1-(introduction)) |
+| 1  | 24 Sep  | Introduction  | [Slides](slides/lab1)  | [assignment 1 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-1-(introduction)) |
 | 2  | 1 Oct  | Python Introduction  | Slides  |   |
 | 3  | 8 Oct  | <ul><li> Selection Sort</li><li>Insertion Sort</li><li>Analyze performance</li></ul>  | Slides  |   |
 | 4  | 15 Oct  | <ul><li> Bubble Sort</li><li>Merge Sort</li><li>Analyze performance</li></ul> | Slides  |   |
