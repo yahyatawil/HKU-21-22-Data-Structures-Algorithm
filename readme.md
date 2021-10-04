@@ -8,17 +8,17 @@ Note: the titles are subject to modifications
 | Session  | Date | Title | Materials | Assignments |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | 24 Sep  | Introduction  | [Slides](slides/lab1)  | [assignment 1 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-1-(introduction)) |
-| 2  | 1 Oct  | Python Introduction  | Slides  |   |
-| 3  | 8 Oct  | <ul><li> Selection Sort</li><li>Insertion Sort</li><li>Analyze performance</li></ul>  | Slides  |   |
-| 4  | 15 Oct  | <ul><li> Bubble Sort</li><li>Merge Sort</li><li>Analyze performance</li></ul> | Slides  |   |
-| 5  | 22 Oct  | C++ Introduction  | Slides  |   |
-| 6  | 1 Oct  | <ul><li>Stack</li><li>Queue</li><li>Struct and Union</li><li>Linked List</li><li>Memory Dynamic Allocation</li></ul>  | Slides  |   |
-| 7  | 24 Sep  | Binary tree with examples  | Slides  |   |
+| 2  | 1 Oct  | C++ Introduction  | Slides  | [assignment 2 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-2-(C---introduction))  |
+| 3  | 8 Oct  | Basic Data structers in C++  | Slides  |   |
+| 4  | 15 Oct  | Applications using Data structers | Slides  |   |
+| 5  | 22 Oct  | -  | Slides  |   |
+| 6  | 1 Oct  | -  | Slides  |   |
+| 7  | 24 Sep  | -  | Slides  |   |
 | (Public holiday)  | 29 Oct   | -  | -  | -  |
-| 8  | 5 Nov  | Graph algorithm examples  | Slides  |   |
-| 9  | 19 Nov  |  Greedy Algorithms examples |  Slides |   |
-| 10  | 26 Nov  | Dynamic Programming examples  | Slides  |   |
-| 11  | 3 Dec  | Advanced example (K Means Clust.)  | Slides  |   |
+| 8  | 5 Nov  | -  | Slides  |   |
+| 9  | 19 Nov  |  - |  Slides |   |
+| 10  | 26 Nov  | -  | Slides  |   |
+| 11  | 3 Dec  | -  | Slides  |   |
 | Students Presentation  | 10 Dec  | (topics are determined later)  | -  | -  |
 | Students Presentation  | 17 Dec  | (topics are determined later) | -  | -  |
 
