@@ -22,6 +22,9 @@ Note: the titles are subject to modifications
 | Students Presentation  | 10 Dec  | (topics are determined later)  | -  | -  |
 | Students Presentation  | 17 Dec  | (topics are determined later) | -  | -  |
 
+## Youtube Playlist
+You can watch the recordings from this [Youtube list](https://www.youtube.com/playlist?list=PL9NrMb_W_ROFhXdNJepfl0jvU8dTaPfGk).
+
 ## Rules
 
 1. The official teaching language is english, thus only English is used and allowed for teaching, commnication, presentations, quizes and assignments.
