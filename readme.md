@@ -10,7 +10,7 @@ Note: the titles are subject to modifications
 | 1  | 24 Sep  | Introduction  | [Slides](slides/lab1)  | [assignment 1 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-1-(introduction)) |
 | 2  | 1 Oct  | C++ Introduction  | [Slides](slides/lab2)  | [assignment 2 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-2-(CPP-introduction))  |
 | 3  | 8 Oct  | <ul><li>C++ Introduction (cont.)</li><li>Basic Data structers (linked list)</il>  | [Slides](slides/lab3)  | [assignment 3 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-3-(linked-list))  |
-| 4  | 15 Oct  | Linked List in C | [Slides](slides/lab4)  |  [assignment 3 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-3-(linked-list-2))  |
+| 4  | 15 Oct  | Linked List in C | [Slides](slides/lab4)  |  [assignment 4 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-3-(linked-list-2))  |
 | 5  | 22 Oct  | -  | Slides  |   |
 | 6  | 1 Oct  | -  | Slides  |   |
 | 7  | 24 Sep  | -  | Slides  |   |
