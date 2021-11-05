@@ -18,7 +18,7 @@ Note: the titles are subject to modifications
 | 9  | 19 Nov  |  - |  Slides |   |
 | 10  | 26 Nov  | -  | Slides  |   |
 | 11  | 3 Dec  | -  | Slides  |   |
-| 12  | 10 Dec  | Slides  | -  | -  |
+| 12  | 10 Dec  | -  | Slides  |    |
 | Students Presentation  | 17 Dec  | (topics are determined later) | -  | -  |
 
 ## Youtube Playlist
