@@ -13,7 +13,7 @@ Note: the titles are subject to modifications
 | 4  | 15 Oct  | Linked List in C | [Slides](slides/lab4)  |  [assignment 4 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-4-(linked-list-2))  |
 | 5  | 22 Oct  | Stack & Queue  | [Slides](slides/lab5)  |  [assignment 5 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-5-(stack-and-heap)) |
 | (Public holiday)  | 29 Oct   | -  | -  | -  |
-| 8  | 5 Nov  | -  | Slides  |   |
+| 8  | 5 Nov  | Trees (1)  | [Slides](slides/lab6)  | [assignment 6 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-6-(trees-1))  |
 | (Mid-terms week)  | 12 Nov  |  - |  - |  - |
 | 9  | 19 Nov  |  - |  Slides |   |
 | 10  | 26 Nov  | -  | Slides  |   |
