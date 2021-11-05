@@ -14,10 +14,11 @@ Note: the titles are subject to modifications
 | 5  | 22 Oct  | Stack & Queue  | [Slides](slides/lab5)  |  [assignment 5 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-5-(stack-and-heap)) |
 | (Public holiday)  | 29 Oct   | -  | -  | -  |
 | 8  | 5 Nov  | -  | Slides  |   |
+| (Mid-terms week)  | 12 Nov  |  - |  - |  - |
 | 9  | 19 Nov  |  - |  Slides |   |
 | 10  | 26 Nov  | -  | Slides  |   |
 | 11  | 3 Dec  | -  | Slides  |   |
-| Students Presentation  | 10 Dec  | (topics are determined later)  | -  | -  |
+| 12  | 10 Dec  | Slides  | -  | -  |
 | Students Presentation  | 17 Dec  | (topics are determined later) | -  | -  |
 
 ## Youtube Playlist
