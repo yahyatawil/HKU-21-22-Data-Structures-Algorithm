@@ -15,11 +15,11 @@ Note: the titles are subject to modifications
 | (Public holiday)  | 29 Oct   | -  | -  | -  |
 | 8  | 5 Nov  | Trees (1)  | [Slides](slides/lab6)  | [assignment 6 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-6-(trees-1))  |
 | (Mid-terms week)  | 12 Nov  |  - |  - |  - |
-| 9  | 19 Nov  |  - |  Slides |   |
+| 9  | 19 Nov  |  Trees (2) |  [Slides](slides/lab7) |  [assignment 7 instructions](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Assignment-7-(trees-2)) |
 | 10  | 26 Nov  | -  | Slides  |   |
 | 11  | 3 Dec  | -  | Slides  |   |
-| 12  | 10 Dec  | -  | Slides  |    |
-| Students Presentation  | 17 Dec  | (topics are determined later) | -  | -  |
+| 12  | 10 Dec  | Final Quiz  | Slides  |    |
+| Students Presentation  | 17 Dec  | [Final Project](https://github.com/yahyatawil/HKU-21-22-Data-Structures-Algorithm/wiki/Final_project) | -  | -  |
 
 ## Youtube Playlist
 You can watch the recordings from this [Youtube list](https://www.youtube.com/playlist?list=PL9NrMb_W_ROFhXdNJepfl0jvU8dTaPfGk).
